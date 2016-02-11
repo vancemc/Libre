@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Vance McCorkle</authors>
+    <owners>Vance McCorkle - Applied Testware LLC</owners>
+    <projectUrl>https://www.facebook.com/AppliedTestware/</projectUrl>
+    <iconUrl>http://www.pdclipart.org/albums/Small_Icons/small_gears.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple, light weight, extensible, asynchronous logging framework</description>
+	<summary>Say "no!" to bulky, synchronous, kludgy logging frameworks!</summary>
+    <releaseNotes>First Alpha release. Includes built in async logging for text files. Future releases will include Xml loggers, ODBC and SQL Server logging plugins</releaseNotes>
+    <copyright>Copyright © 2016 Applied Testware LLC Snohomish WA USA</copyright>
+    <tags>Log Logger Async Logging</tags>
+  </metadata>
+</package>
