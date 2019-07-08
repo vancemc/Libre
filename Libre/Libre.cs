@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Threading.Tasks;
 using Libre;
 
@@ -16,7 +16,7 @@ namespace AppliedTestware
             {
                 if (throwLogExceptions)
                 {
-                    throw;
+                    throw new Exception(ex.Message);
                 }
             }
         }
